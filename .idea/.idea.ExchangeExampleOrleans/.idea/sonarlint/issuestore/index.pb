@@ -1,0 +1,39 @@
+
+T
+$Mofid.GrainInterfaces/IOrderGrain.cs,0\9\0980c420f0608a74052e792ec80459e5920de14e
+H
+Mofid.Dto/AddOrderDto.cs,9\3\93832b2345fd90ebd81865b89b782b60b453f805
+P
+ Mofid.GrainClasses/OrderGrain.cs,e\7\e73481857f5a88fde0147cfb6ab571b7f699b81c
+W
+'Mofid.GrainInterfaces/ICustomerGrain.cs,c\6\c683c08aa153fba7d88606254d607930bd6468ad
+U
+%Mofid.GrainInterfaces/ISymbolGrain.cs,a\3\a38daf9e24055ba3e0d40b4b9fda3c6d4552b2d8
+I
+Mofid.Dto/GetSymbolDto.cs,1\9\193ecc53ddd68960ccc6046ab0891af85d0e1a43
+H
+Mofid.Dto/AddBlockDto.cs,d\c\dc664bf1dbcbb918272cb1bf2d9200f8bc9115c5
+Q
+!Mofid.GrainClasses/SymbolGrain.cs,2\b\2bda2644ff4eaea8ace0c5356ede392c4764de30
+S
+#Mofid.GrainClasses/CustomerGrain.cs,2\4\2477468be0413b4287461af47917d3ffc250a88f
+S
+#Mofid.GrainInterfaces/ITseSender.cs,8\2\824b6aee82dbbf52e275151ac8a2cc57326b3130
+O
+Mofid.GrainClasses/TseSender.cs,0\c\0cf7e85dcaf86c81427cc44d4e3ae6fff254fc0b
+D
+Mofid.Oms/Program.cs,b\f\bf8b4f227b42ff716dacdeb7c0a61783b44cbd24
+H
+Mofid.Gateway/Program.cs,b\0\b098cb3983f38284bf0638c4daee98ac8f83b9ca
+P
+ Mofid.Gateway/OrderController.cs,b\b\bbe231a3bba764e90f48b8f46b33deceaf72aabe
+W
+'Mofid.GrainClasses/States/OrderState.cs,e\7\e7cdc37a5561fe6096772110a7536aaceab86ef9
+N
+Mofid.Gateway/appsettings.json,1\5\1591c9ccf715071de9f061a10eb661c42baf39d9
+Z
+*Mofid.Gateway/appsettings.Development.json,a\8\a8ce9a57b4f85665ed68c379854a52aec1ec10b8
+\
+,Mofid.Gateway/Properties/launchSettings.json,5\6\56dd78c16668cf94ac8a1cd22914e13e2e4d5644
+X
+(Mofid.Oms/Properties/launchSettings.json,7\e\7e18d360029f617b4c78daa478433f8d18ebf207
